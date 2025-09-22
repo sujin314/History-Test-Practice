@@ -7,11 +7,13 @@
 ---
 
 ## 2. 프로젝트 구조
+```bash
 ├── pages/              # 기능별 페이지 객체 (현재: 히스토리)
 ├── utils/              # 팀 공용 유틸 함수 (로그인 등)
 ├── tests/              # 자동화 테스트 코드 (Selenium + Pytest)
 ├── .gitignore          # 환경파일 및 캐시 제외
 └── README.md
+```
 
 ---
 
