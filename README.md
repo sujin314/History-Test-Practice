@@ -17,9 +17,7 @@
 
 ## 3. 설치, 실행 방법
 ```bash
-git clone https://github.com/sujin314/History-Test-Practice.git
-cd History-Test-Practice
-pip install -r requirements.txt
+pip install selenium pytest
 pytest -v
 ```
 ⚠️ 현재 서버가 만료되어 실행은 불가합니다. (테스트 실행 흐름은 코드로 확인 가능)
